@@ -1,0 +1,165 @@
+* {
+   padding: 0;
+   margin: 0;
+   box-sizing: border-box;
+}
+
+.container {
+   position: absolute;
+   left: 7.25%;
+   background-color: white;
+}
+
+.servis {
+   position: absolute;
+   left: 650px;
+   top: 33.93%; 
+   text-decoration: none;  
+}
+
+.about {
+   position: absolute;
+   left: 850px;
+   top: 33.93%;   
+   text-decoration: none;
+}
+
+.contact {
+   position: absolute;
+   left: 1050px;
+   top: 33.93%;   
+   text-decoration: none;
+}
+
+.button {
+   position: absolute;
+   left: 1250px;
+   background-color: ;
+   top: 33.93%;   
+}
+
+.button2 {
+   position: fixed;
+   left: 1550px;
+      top: 15px;
+}
+
+.first {
+   position: fixed;
+   left: 46.27%;
+   right: 46.3%;
+   top: 11.54%;
+   bottom: 84.62%;
+}
+
+.byrend {
+   position: fixed;
+   left: 41%;
+   top: 200px;
+   font-family: 'Segoe UI';
+   color: rgba(0, 0, 0, 0.85);
+}
+
+.account {
+   position: fixed;
+   left: 750px;
+   top: 250px;
+}
+
+.log {
+   position: fixed;
+   left: 930px;
+   top: 250px;
+   color: #01BAB3;
+}
+
+.email {
+   position: relative;
+   left: -100px;
+   top: 180px;
+}
+
+.email1 {
+   position: relative;
+   left: -100px;
+   width: 320px;
+   height: 30px;
+   top: 190px;
+}
+
+.phone {
+   position: relative;
+   left: -100px;
+   top: 220px;
+}
+
+.phone1 {
+   position: relative;
+   left: -100px;
+   width: 320px;
+   height: 30px;
+   top: 230px;
+}
+
+.country {
+   position: relative;
+   left: -100px;
+   top: 270px;
+}
+
+.select {
+   position: relative;
+   left: -100px;
+   height: 30px;
+   top: 280px;
+}
+
+.city {
+   position: relative;
+   left: 70px;
+   top: 225px;
+}
+
+.city1 {
+   position: relative;
+   left: 70px;
+   height: 30px;
+   top: 232px;
+}
+
+.password {
+   position: relative;
+   left: -100px;
+   top: 280px;
+}
+
+.password1 {
+   position: relative;
+   left: -100px;
+   width: 320px;
+   height: 30px;
+   top: 290px;
+}
+
+.pass {
+   position: relative;
+   left: -100px;
+   top: 330px;
+}
+
+.pass1 {
+   position: relative;
+   left: -100px;
+   width: 320px;
+   height: 30px;
+   top: 340px;
+}
+
+.login {
+   position: relative;
+   width: 300px;
+   height: 50px;
+   left: -90px;
+   top: 370px;
+   background-color:  #01BAB3;
+}

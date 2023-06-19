@@ -1,0 +1,111 @@
+* {
+   padding: 0;
+   margin: 0;
+   box-sizing: border-box;
+}
+
+.container {
+   position: absolute;
+   left: 7.25%;
+   background-color: white;
+}
+
+.servis {
+   position: absolute;
+   left: 650px;
+   top: 33.93%; 
+   text-decoration: none;  
+}
+
+.about {
+   position: absolute;
+   left: 850px;
+   top: 33.93%;   
+   text-decoration: none;
+}
+
+.contact {
+   position: absolute;
+   left: 1050px;
+   top: 33.93%;   
+   text-decoration: none;
+}
+
+.button {
+   position: absolute;
+   left: 1250px;
+   background-color: ;
+   top: 33.93%;   
+}
+
+.button2 {
+   position: fixed;
+   left: 1550px;
+      top: 15px;
+}
+
+.first {
+   position: fixed;
+   left: 46.27%;
+   right: 46.3%;
+   top: 11.54%;
+   bottom: 84.62%;
+}
+
+.byrend {
+   position: fixed;
+   left: 41%;
+   top: 200px;
+   font-family: 'Segoe UI';
+   color: rgba(0, 0, 0, 0.85);
+}
+
+.account {
+   position: fixed;
+   left: 750px;
+   top: 250px;
+}
+
+.log {
+   position: fixed;
+   left: 930px;
+   top: 250px;
+   color: #01BAB3;
+}
+
+.email {
+   position: relative;
+   left: -120px;
+   top: 200px;
+}
+
+.email1 {
+   position: relative;
+   width: 320px;
+   height: 30px;
+   left: -120px;
+   top: 210px;
+}
+
+.password {
+   position: relative;
+   left: -120px;
+   top: 250px;
+}
+
+.password1 {
+   position: relative;
+   width: 320px;
+   height: 30px;
+   left: -120px;
+   top: 260px;
+}
+
+.continue {
+   position: relative;
+   width: 400px;
+   height: 50px;
+   left: -140px;
+   top: 400px;
+   background-color: #01BAB3;
+}
